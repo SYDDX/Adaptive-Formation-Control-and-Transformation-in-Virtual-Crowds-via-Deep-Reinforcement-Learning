@@ -40,4 +40,4 @@ pip install package_name
    ```
    
 ## Example
-![example](https://github.com/qyc15180240677/Adaptive-Formation-Control-and-Transformation-in-Virtual-Crowds-via-Deep-Reinforcement-Learning/blob/main/output(video-cutter-js.com)%20(3).gif "6 agents form a circular formation")
+![example](https://github.com/qyc15180240677/Adaptive-Formation-Control-and-Transformation-in-Virtual-Crowds-via-Deep-Reinforcement-Learning/blob/main/output.gif "6 agents form a circular formation")
