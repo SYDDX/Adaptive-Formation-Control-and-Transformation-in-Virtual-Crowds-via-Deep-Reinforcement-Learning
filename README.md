@@ -9,18 +9,16 @@ The proposed framework comprises three core components:
 ---
 
 ## Requirements
-1. **Python 3.10.12**
-2. **mlagent 1.1.0**
-3. **Pytorch, onnx, protobuf, tensorboard and so on.**
+**Python=3.10.12，mlagent=1.1.0，Pytorch, onnx, protobuf, tensorboard and so on.**
 
 * The requirements.txt file lists all required libraries. Install them by following these steps:
-** Create a conda environment:
+1. Create a conda environment:
 ```
 conda create -n your_env python==3.10.12  
 ```
-** Install Unity ML-Agents Toolkit following the [official installation instructions](https://github.com/Unity-Technologies/ml-agents)
-** Install PyTorch following the [official installation instructions](https://pytorch.org/)
-** Install remaining packages via pip:
+2. Install Unity ML-Agents Toolkit following the [official installation instructions](https://github.com/Unity-Technologies/ml-agents)
+3. Install PyTorch following the [official installation instructions](https://pytorch.org/)
+4. Install remaining packages via pip:
 ```
 pip install package_name
 ```
